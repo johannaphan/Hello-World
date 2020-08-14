@@ -10,10 +10,12 @@ public class Main
 {
 	public static void main(String[] args) {
 		System.out.println("Hello World");
-		System.out.println("My name is Johanna")
-		System.out.println("My favorite color is blue")
-		System.out.println("My favorite food is poke and sushi.")
-		System.out.println("I want to go UCLA")
-		System.out.println("I want to major in Computer Science and Engineering or Biomedical Engineering")
+		System.out.println("My name is Johanna");
+		System.out.println("My favorite color is blue");
+		System.out.println("My favorite food is poke and sushi");
+		System.out.println("My dream college is UCLA"); 
+		System.out.println("I want to major in Computer Science and engineering or Biomedical Engineering");
+		
+		
 	}
 }
